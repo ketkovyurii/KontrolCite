@@ -1,0 +1,318 @@
+.isvis{
+    display: none;
+}
+.fstsc{
+    width: 100%;
+    height: 962px;
+    background-image: url(images/back.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fstsc-cont{
+    width: 100%;
+    height: 962px;
+    background: linear-gradient(180deg, rgba(53, 66, 103, 0.0001) 0%, #151824 95.04%);
+}
+.ca{
+    position: absolute;    
+    width: 1060px;
+    margin-left: calc(50vw - 530px);
+    margin-top: 56px;
+    color: white;
+}
+.navigation{
+    width: 1060px;
+}
+.logo{
+    width: 570px;    
+}
+.navigation .navel{
+    font-family: Lato;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    width: 140px;
+}
+.bigheader{
+    margin-top: 176px;
+    width: 620px;
+    font-family: Lato;
+    font-size: 50px;    
+}
+.footheadtxt{
+    margin-top: 22px;
+    width: 546px;
+    font-family: Lato;
+    font-size: 16px;
+}
+.q1, .q2{
+    display: inline-table;
+    margin-top: 59px;
+    height: 60px;
+    border-bottom: 3px solid #BFC0C5;
+    font-family: Lato;
+    font-size: 18px;
+}
+.q2{
+    margin-left: 61px;
+}
+.serachbt{
+    display: inline-block;
+    margin-left: 60px;
+    font-family: Lato;
+    font-size: 24px;
+    background: rgb(27, 125, 255, 1);
+    width: 170px;    
+    line-height: 64px;
+    text-align: center;
+    margin-bottom: -4px;
+    cursor: pointer;
+}
+.q1 .text, .q2 .text{
+    padding: 0px 20px;
+}
+.pros{
+    width: 1260px;
+    box-shadow: 0px 2px 20px rgba(21, 24, 36, 0.30);
+    margin: -200px calc(50vw - 630px) 50px calc(50vw - 630px);
+    background: white;
+    height: 635px;
+}
+.pros .LM img{
+    margin-bottom: 2px;
+    margin-left: 20px;
+}
+.pros .cont{
+    margin: 94px 90px;
+    position: absolute;
+    background: white;    
+    width: 1060px;
+}
+.pros .head{
+    font-family: Lato;
+    font-size: 35px;
+    margin-left: 25px;
+}
+.pros .concon {
+    margin-top: 100px;    
+    border-spacing: 25px;
+}
+.pros .concoc td{
+    padding-right: 30px;
+    font-family: Lato;    
+}
+.pros .tit{
+    font-size: 18px;
+    font-weight: 500;
+}
+.pros .foot{
+    font-weight: 400;
+    font-size: 16px;
+}
+.pros .LM{
+    color: rgba(0, 109, 254, 1);
+    font-size: 16px;
+    line-height: 29px;
+    cursor: pointer;
+}
+.sec{
+    width: 1260px;    
+    margin: 130px calc(50vw - 630px);
+}
+.sec .head{
+    display: inline-block;
+    font-family: Lato;
+    font-size: 35px;   
+    margin-left: 5px;
+}
+.sec .VA{
+    display: inline-block;
+    line-height: 40px;    
+    margin-left: 660px;
+    font-family: Lato;
+    font-size: 16px;
+    color: rgba(0, 109, 254, 1);
+    margin-bottom: 10px;
+}
+.sec .VA img{
+    margin-left: 25px;
+}
+.sec .els .rect{
+    display: inline-block;    
+    overflow: hidden;
+    box-shadow: 0px 2px 20px rgba(21, 24, 36, 0.115);
+}
+.sec .rect{
+    text-align: center;
+}
+.sec .els .s1{
+    height: 355px;
+    width: 618px;    
+    margin: 5px;
+    margin-top: 35px;
+    background-position: -36px -47px;
+    background-size: 120%;
+    background-repeat: no-repeat;
+    backdrop-filter: contrast();
+    display: inline-block;
+    
+}
+.sec .els .s2{ 
+    height: 285px;
+    width: 407.3px;
+    margin: 5px;
+    background-position: -32px -70px;
+    background-size: 130%;
+    background-repeat: no-repeat;
+}
+.els .s1 div{
+    padding: 265px 347px 43px 30px;
+    background: rgb(21, 24, 36, 0.1);
+    text-align: left;
+    font-family: Lato;
+    font-size: 50px;
+    color: white;
+}
+.els .s2 div{
+    padding: 195px 220px 30px 30px;
+    background: rgba(21, 24, 36, 0.4);
+    text-align: left;
+}
+.els .rect div{
+    font-family: Lato;
+    font-size: 50px;
+    color: white;
+}
+.justclass{
+    width: 1330px;    
+    margin: 130px calc(50vw - 660px);    
+    border-spacing: 50px 100px;
+}
+.justclass .image img{
+    max-width: 600px;
+}
+.justclass .IT{
+    border-spacing: 30px 10px;
+}
+.IT .I{
+    margin: 0px 60px;
+    font-family: Lato;
+    height: 355px;
+    width: 520px;
+}
+.IT .I .tit{
+    font-size: 30px;
+    color: rgba(16, 39, 70, 1);
+    width: 520px;
+    line-height: 40px;
+    font-weight: 500;
+}
+.IT .I .foot{
+    font-size: 16px;
+    color: rgba(16, 39, 70, 1);
+    width: 520px;
+    line-height: 24px;
+}
+.IT .I .V{
+    color: rgba(0, 109, 254, 1);
+    line-height: 24px;
+}
+.IT .I .V img{
+    margin-left: 25px;
+}
+.TP{
+    width: 1360px;    
+    margin: 110px calc(50vw - 680px);
+}
+.TP .head{
+    display: inline-block;
+    font-family: Lato;
+    font-size: 35px;   
+}
+.Tp .Ps{
+    border-spacing: 50px;
+    font-family: Lato;
+}
+.Ps .P .ssh{
+    width: 380px; 
+    height: 380px;
+    vertical-align: bottom;
+    background-image: url(images/back.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.P .IP{
+    width: 100%;
+    background: rgb(0, 0, 0, 0.5);
+    height: 55px;
+    color: white;
+    font-family: Lato;     
+}
+.IP .N{
+    font-size: 18px;
+    padding-left: 25px;
+}
+.IP .O{
+    width: 70px;
+    line-height: 28px;
+    font-size: 16px;
+    text-align: center;
+}
+.IP .O img{
+    max-width: 15px;
+    margin-left: 3px;
+    margin-bottom: -1px;    
+}
+.P .foot td{
+    padding: 45px 0px 30px 0px;
+    line-height: 24px;
+}
+.P .SM td{
+    background: rgba(0, 109, 254, 1);
+    width: 120px;
+    height: 40px;    
+    line-height: 40px;
+    text-align: center;
+    display: block;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.video{
+    width: 100vw;   
+    height: 610px;    
+    background-image: url(images/footer-back.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.video img{
+    cursor: pointer;
+}
+.FB{
+    background: #0E1D28;
+    height: 370px;
+}
+.F{
+    width: 1080px;
+    margin: 120px calc(50vw - 540px);
+    position: absolute;
+    font-family: Lato;
+    color: white;    
+}
+.F .list{
+    width: 240px;
+}
+.F .list td{
+    line-height: 24px;    
+}
+.F .list .head{
+    font-size: 18px;
+}
+.F .logo{
+    vertical-align: top;
+}

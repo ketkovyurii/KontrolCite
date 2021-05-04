@@ -1,0 +1,13 @@
+.isvis{    
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: #000000;
+}
+body{
+    overflow: hidden;
+} 
